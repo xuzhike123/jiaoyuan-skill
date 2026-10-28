@@ -1,0 +1,179 @@
+{
+  "name": "jiaoyuan",
+  "display_name": "教员 · 毛泽东式认识论与工作方法",
+  "version": "1.0.0",
+  "built_at": "2026-10-28T21:42:04+08:00",
+  "generator": "cangjie-manual-distill v1.0",
+  "source": {
+    "repo": "https://github.com/M0rtzz/Selected-Works-of-MaoTseTung",
+    "corpus": [
+      "毛泽东选集（1-4卷，txt）",
+      "毛泽东选集第五卷（混编，标注使用）",
+      "毛泽东诗词（txt / 品读）",
+      "毛泽东画传（12卷 PDF，未 OCR）",
+      "毛泽东早期文稿（txt）"
+    ]
+  },
+  "stats": {
+    "capabilities": 11,
+    "references": 19,
+    "quotes": 62,
+    "corpus_articles": 159,
+    "test_cases": 15
+  },
+  "files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 15621,
+      "sha256": "90de563bd917b67e51fb374b6264297d0fd2e50875822ce310a91f766b538583"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4746,
+      "sha256": "97548b0deeac8a6eb23bd8bccfc0b4040519d0f066d781133cead7368dde1857"
+    },
+    {
+      "path": "test-prompts.json",
+      "bytes": 7782,
+      "sha256": "befd2ddcf1bb38256b40159ada64b0aaa2f021ebb32733b9abc9a31f11eb4aca"
+    },
+    {
+      "path": "references/capabilities/concentration.md",
+      "bytes": 5337,
+      "sha256": "6bdd2991c03de6dd8d51ac72a8d5c0d34337a39e11108562b12e048d4cf013cb"
+    },
+    {
+      "path": "references/capabilities/contradiction.md",
+      "bytes": 6641,
+      "sha256": "199525c84fe75294699db511e8d781584e728245ecd081232974d43578b35756"
+    },
+    {
+      "path": "references/capabilities/leadership.md",
+      "bytes": 6322,
+      "sha256": "d1ed4691f2f3e4b525c1f2f791d8bdb0aec6687f759013ae760f4fd9b357ea26"
+    },
+    {
+      "path": "references/capabilities/mass-line.md",
+      "bytes": 5629,
+      "sha256": "d603716b650352f50785524699a54a4301fa559339f8eeba6bedfdf6e5fdc7f1"
+    },
+    {
+      "path": "references/capabilities/organization.md",
+      "bytes": 5890,
+      "sha256": "1c6890e5853cc481da647cf0dc030b0590bd1c916db1097f73205b50221014f3"
+    },
+    {
+      "path": "references/capabilities/practice.md",
+      "bytes": 5898,
+      "sha256": "6b53492802bbb9144504249896540d84832b4e68e56579c2734019e364b1eb25"
+    },
+    {
+      "path": "references/capabilities/self-criticism.md",
+      "bytes": 6045,
+      "sha256": "0544e341fb79e00da32962e22c86d5c6afdb20e2da3641c5d8749840291e2a15"
+    },
+    {
+      "path": "references/capabilities/strategy.md",
+      "bytes": 6499,
+      "sha256": "eb6e3d8d92b16f6ca93defbbe9c24698426bbeb795b65aaa6c5e84ac6dcb3221"
+    },
+    {
+      "path": "references/capabilities/survey.md",
+      "bytes": 6099,
+      "sha256": "ccaed190aec651e825be6ca790a3c25f3500e3c3fa6e711cf7a29d97752e5e24"
+    },
+    {
+      "path": "references/capabilities/transformation.md",
+      "bytes": 5664,
+      "sha256": "f2cafa26760619a0aa934ae91ac61c8939c66f2f4d295db6f76806e50043b11b"
+    },
+    {
+      "path": "references/capabilities/united-front.md",
+      "bytes": 6330,
+      "sha256": "36822d4b879015bc3c385e672955d814a37f009f5d72bbb08159c9ea71d9dd7f"
+    },
+    {
+      "path": "references/capability-index.md",
+      "bytes": 3638,
+      "sha256": "47e582d1955843208d1fb70071959c44fea1bc546e7749ad727407e41fc7cba4"
+    },
+    {
+      "path": "references/cheatsheet.md",
+      "bytes": 2788,
+      "sha256": "a8d2f991618abecb8c405b94195d9879349ce0aa0ec7d7382145fd1c0105b43a"
+    },
+    {
+      "path": "references/corpus-map.md",
+      "bytes": 15949,
+      "sha256": "284b239abb3972984795e94a0e8c6fce46ded8e65080fbf1b2ef3a4b49597bd6"
+    },
+    {
+      "path": "references/glossary.md",
+      "bytes": 6371,
+      "sha256": "3be7efe50711f9d8af653d109d4a28493c3b6c35c9f9f3a3320641bb6a2e75bb"
+    },
+    {
+      "path": "references/overview.md",
+      "bytes": 4086,
+      "sha256": "568c25236b293f5be6f30660bd07caa8f047470306d17197d8b4298b444398fa"
+    },
+    {
+      "path": "references/persona.md",
+      "bytes": 14376,
+      "sha256": "f69cc773eb3718b121a04cfc3be8d0a9083a9a6806fdf4ef20d1c7d3a95410a7"
+    },
+    {
+      "path": "references/quotes.md",
+      "bytes": 10610,
+      "sha256": "5ff220c609bac5ffa6ee80785609bd61fce97dda3e4a932d4f294c73223cfef6"
+    },
+    {
+      "path": "references/voice.md",
+      "bytes": 9488,
+      "sha256": "3824029cc6616821e15efc5858dcef28c42451e62734b919354fa35cfd26a4b8"
+    },
+    {
+      "path": "books/jiaoyuan/BOOK_OVERVIEW.md",
+      "bytes": 5849,
+      "sha256": "7d4a115ad4c5eeddfdb2527dc405ade60d7e9fe62fedf95975094c9f5938b1bb"
+    },
+    {
+      "path": "books/jiaoyuan/coverage-audit.md",
+      "bytes": 3279,
+      "sha256": "f12fbb30092eb92fd4d3127d8b9e90cb79be983ff1f01e97d37ff0675887b765"
+    },
+    {
+      "path": "books/jiaoyuan/DIGEST.md",
+      "bytes": 14720,
+      "sha256": "250d89de1f60b55a29f97f966ec960443e9f575ff360764c2ccd7b08bac0dcc2"
+    },
+    {
+      "path": "books/jiaoyuan/needs-review.md",
+      "bytes": 2737,
+      "sha256": "f36791011260d0c675bd8dc587af594a5da322c8eb5ee870e3aa2c2cb37eb33b"
+    },
+    {
+      "path": "books/jiaoyuan/PIPELINE_STATE.md",
+      "bytes": 1510,
+      "sha256": "cfd58944aed069ec49d48ab3a3f5a9191757ff2408acf3a38e2d061aa711e058"
+    },
+    {
+      "path": "books/jiaoyuan/verified.md",
+      "bytes": 3843,
+      "sha256": "c8108e1960bc1a4b25a9c30426a6a9b48ea3b6dc37b51eaf00464ab6dfc11b15"
+    },
+    {
+      "path": "examples/demo-diagnosis.md",
+      "bytes": 3394,
+      "sha256": "3680fa15e47ef570e75e4f1b6ca16f538509c948ec5fbf4f10688f6017a8a4ed"
+    },
+    {
+      "path": "examples/demo-voice.md",
+      "bytes": 1398,
+      "sha256": "949bc2f13c3c7e6dbf32b34a499474ba43da67fa13db0d46dbdb4513ae9cb6dd"
+    }
+  ],
+  "checks": {
+    "broken_links": []
+  }
+}
