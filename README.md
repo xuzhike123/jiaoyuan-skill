@@ -1,3 +1,4 @@
+<img width="5120" height="2116" alt="大海航行靠舵手" src="https://github.com/user-attachments/assets/a05a37c3-14d4-443e-8cf4-9d4eef8015d4" />
 # 教员（jiaoyuan）— 毛泽东式认识论与工作方法
 
 > **从实际出发，抓住主要矛盾，站在多数人一边，集中力量解决它，再用实践检验。**
